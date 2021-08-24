@@ -1,0 +1,71 @@
+$	echo $PATH
+	user
+	environment variable
+
+#	ls # list file
+	root
+	comment
+
+\	echo Hello\ World
+	escape
+
+" '	echo "Hello World"
+	echo "lang is $LANG"
+	echo 'lang is $LANG'
+
+	string
+
+~	echo ~
+	echo ~user/
+	echo ~+
+	echo ~-
+
+	home directory
+	-+	current working diectory
+	~-	previous working diectory
+
+/
+	root filesystem
+
+.
+..
+sample:
+	touch .hidden-file
+	ls -l
+	ls -al
+	
+	pwd
+	cd .
+	pwd
+	cd ..
+	pwd
+
+`	gcc `pkg-config --libs glu` -lglut drawLine.c
+	echo pwd
+	echo `pwd`
+
+	command substitution
+
+*	echo *
+	
+?	cd ?older
+
+>	ls > file
+>>
+<
+<<
+
+|	ls | grep file
+	ls | less
+	ls | more
+
+	pipe
+
+{}	cp folder1/{1,2} folder2/
+	echo {a..z}
+
+
+
+
+
+http://tldp.org/LDP/abs/

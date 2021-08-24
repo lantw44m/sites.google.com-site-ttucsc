@@ -1,0 +1,73 @@
+Live CD
+
+desktop environment (桌面環境
+GNOME
+KDE
+LXDE
+
+Linux distribution (Linux 發行版
+	yum/rpm
+		Fedora
+		openSUSE
+		CentOS
+	apt-get
+		Ubuntu
+		Debian
+
+IDE/SATA 介面
+	IDE
+		master
+		slave
+	SATA
+		SATA2
+		SATA3
+
+Sector (磁區
+Track (磁軌
+Cylinder (磁柱
+
+硬碟等 裝置檔名命名關係
+	
+	/dev/hda
+	/dev/hdb
+
+	/dev/sda
+	/dev/sdb
+	
+		/dev/sda1
+		/dev/sda2
+		/dev/sda3
+
+		//1~4 for primary partition
+		//5~ for logical partition
+
+partition table (磁碟分割表		//GParteed 分割工具
+
+Primary partition
+Logical partition
+
+mount (掛載
+	mount / /home /etc 等
+
+/ file system root
+
+File system (檔案系統
+	ext3
+	ext4
+	FAT
+	exFAT
+	NTFS
+swap
+
+
+MBR		//2.2TB limit
+GPT
+
+BIOS
+Bootloader
+開機選單
+	GNU GRUB
+
+Linux Permission
+	root
+

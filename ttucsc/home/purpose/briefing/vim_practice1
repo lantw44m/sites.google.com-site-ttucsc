@@ -1,0 +1,15 @@
+0.	Use macro to create "No. 1: ~ No. 100:".
+
+1.	Use command to search every "5" from top to bottom.
+
+2.	Clear height light .
+
+3.	Use command to search every "6" from bottom to top
+
+4.	Clear height light .
+
+5.	Delete 20 ~ 30 ":".
+
+6.	Replace 40 ~ 50 "No" to "Hello".
+
+7.	Replace all "No" to "Number".

@@ -1,0 +1,47 @@
+For Windows:
+
+	銀幕擷取
+		FSCapture
+		http://www.faststone.org/FSCaptureDetail.htm
+		
+		Greenshot
+		http://getgreenshot.org/downloads/
+		
+		PicPick
+		http://www.picpick.org/download
+		
+	PDF Generator
+		Office 2007以上版本可直接產生
+
+		doPDF
+		http://www.dopdf.com/
+	
+	Office分頁管理
+		Office Tab
+		http://www.extendoffice.com/download/office-tab-free-edition.html
+	
+	簡報輔助工具
+		ZoomIt
+		http://technet.microsoft.com/zh-tw/sysinternals/bb897434(en-us).aspx
+		
+		Pointofix
+		http://www.pointofix.de/download.php
+
+For Linux:
+
+	Screen capture
+		Shutter
+
+	PDF Generator
+		OpenOffice.org 即可匯出為PDF
+		Google Chrome 列印功能
+	
+引用影片
+	微軟Office廣告-桃太郎篇
+	http://www.youtube.com/watch?v=egyjFO1um6o
+	
+	Life after death by PowerPoint 2010 中文字幕
+	http://www.youtube.com/watch?v=YIZDZ78fGWk
+
+	良好範例：
+		Please search on Youtube by keyword "Google I/O" or "WWDC"

@@ -1,0 +1,62 @@
+su
+sudo
+
+yum
+
+shell?
+	/ect/shells
+
+Tab
+
+.bashrc
+	enviroment variable		//env
+	alias
+		alias lsa='ls -a'
+	PATH
+		PATH=$PATH:/your/folder/path
+	YOUR_VARIABLE
+		export YOUR_VARIABLE="value"
+
+type
+which
+
+man
+--help
+
+echo
+cat
+head
+tail
+tailf
+
+ls	// ll
+pwd
+cd
+mv
+cp
+rm
+mkdir
+rmdir
+
+ln
+
+find
+locate
+grep
+less
+more
+
+top
+ps
+
+poweroff
+shutdown
+reboot
+
+uname -a -m
+/etc/issue
+
+gcc
+	gcc -o target_filename source_code.c
+	./a.out	# default out put is a.out
+	./target_filename

@@ -1,0 +1,22 @@
+0.	use 2 method print out the help information(manual).
+
+1.	install alacarte & gthumb at same time, and let it auto answer yes for all questions
+
+2.	change directory to your root filesystem
+
+3.	change directory to your home directory	//try it as root, and where are you?
+
+4.	make directory hello
+
+5.	edit a C program source code file, use a infinite loop to print a string "hello", by the way sleep() function can help you delay the loop speed.
+
+6.	compile the source code by using gcc, let the out put file name to be hello(no subfile name)
+
+7.	run your executable file make sure the out put is right.
+
+8.	add a path variable in your .bashrc to let your program hello can execute in bash shell.
+
+9.	add a new alias 'lla', let it out put like "ls -l -a".
+
+10.	add a new enviroment variable "TTU" content is "Tatung University", echo to check.	//or use env
+

@@ -1,0 +1,44 @@
+Supplement:
+	Linux File System Hierarchy
+	http://www.aboutlinux.info/2007/03/what-does-etc-stands-for-in-linuxunix.html
+
+which editor you are using?
+
+why vim?
+
+how to use vim in Windows/Linux
+
+vi vim it's difference
+	which
+	alias
+
+Joke:
+	http://www.plurk.com/p/g1rfkp
+	http://www.plurk.com/p/fznynv
+
+
+Demo batchGetMusic
+
+vimrc
+My .vimrc & plugins can download at
+	http://j.mp/dennyvim
+	https://github.com/denny0223/.vim
+
+set nu
+set ai
+set tabstop=4
+set ic
+set cursorline
+
+Graphical vi-vim Cheat Sheet and Tutorial
+	http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html
+
+VIM Adventures
+http://vim-adventures.com/
+
+Plugins
+	snipMate.vim
+		http://vimeo.com/3535418
+	closetag.vim
+
+

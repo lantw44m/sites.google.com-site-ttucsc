@@ -1,0 +1,358 @@
+#mtree
+. time=1629815582.384094000 mode=755 type=dir
+./home time=1629815618.841326000 mode=755 type=dir
+./home/index.html time=1629815581.854301000 mode=644 type=file size=11765
+./home/\346\213\233\347\224\237\345\256\243\345\202\263\346\265\267\345\240\261.jpg time=1629815619.511568000 mode=644 type=file size=230155
+./home/Notice time=1629815582.90844000 mode=755 type=dir
+./home/Notice/index.html time=1629815581.895478000 mode=644 type=file size=26549
+./home/Notice/benjiechengshijingsaibenjiegaiweihackathon time=1629815582.90902000 mode=755 type=dir
+./home/Notice/benjiechengshijingsaibenjiegaiweihackathon/index.html time=1629815582.92006000 mode=644 type=file size=5528
+./home/Notice/chenglidahuishidangshiduandiaocha time=1629815581.944686000 mode=755 type=dir
+./home/Notice/chenglidahuishidangshiduandiaocha/index.html time=1629815581.945177000 mode=644 type=file size=3260
+./home/Notice/chenglidahuishunlijieshugongbuzuzhizhangchengjihuiyijiludengwenjian time=1629815581.938857000 mode=755 type=dir
+./home/Notice/chenglidahuishunlijieshugongbuzuzhizhangchengjihuiyijiludengwenjian/index.html time=1629815581.939339000 mode=644 type=file size=2481
+./home/Notice/haozhaoyouzhiyitongdehuoban time=1629815581.758803000 mode=755 type=dir
+./home/Notice/haozhaoyouzhiyitongdehuoban/index.html time=1629815581.759634000 mode=644 type=file size=2490
+./home/Notice/kuangheshetuanchuanglichenggong time=1629815581.869752000 mode=755 type=dir
+./home/Notice/kuangheshetuanchuanglichenggong/index.html time=1629815581.870390000 mode=644 type=file size=2330
+./home/Notice/shekefenxiangshenqingzuoyekaifangluo time=1629815582.20709000 mode=755 type=dir
+./home/Notice/shekefenxiangshenqingzuoyekaifangluo/index.html time=1629815582.21402000 mode=644 type=file size=2546
+./home/Notice/shekegonggao time=1629815581.628891000 mode=755 type=dir
+./home/Notice/shekegonggao/index.html time=1629815581.629718000 mode=644 type=file size=2031
+./home/Notice/shetuanchenglidahuidingyu100217siwanshang600yushangzhidalou711huiyishi time=1629815581.960660000 mode=755 type=dir
+./home/Notice/shetuanchenglidahuidingyu100217siwanshang600yushangzhidalou711huiyishi/index.html time=1629815581.961174000 mode=644 type=file size=2638
+./home/Notice/shetuankechenggaidong time=1629815581.974519000 mode=755 type=dir
+./home/Notice/shetuankechenggaidong/index.html time=1629815581.975303000 mode=644 type=file size=2068
+./home/Notice/shetuanmingchengpiaoxuanhuodongkaishiluo time=1629815581.713689000 mode=755 type=dir
+./home/Notice/shetuanmingchengpiaoxuanhuodongkaishiluo/index.html time=1629815581.714290000 mode=644 type=file size=2807
+./home/Notice/shetuanmingchengpiaoxuanjieguo time=1629815620.515204000 mode=755 type=dir
+./home/Notice/shetuanmingchengpiaoxuanjieguo/2011-02-09_044246.jpg time=1629815620.754517000 mode=644 type=file size=45691
+./home/Notice/shetuanmingchengpiaoxuanjieguo/index.html time=1629815581.784138000 mode=644 type=file size=3254
+./home/Notice/shetuanmingchengyijianzhengxunkaifangluo time=1629815581.786604000 mode=755 type=dir
+./home/Notice/shetuanmingchengyijianzhengxunkaifangluo/index.html time=1629815581.788100000 mode=644 type=file size=2301
+./home/Notice/shetuanmingchengyijianzhengxunluxudedaojieguoyigongbuzhizhongyaowenjian time=1629815581.689868000 mode=755 type=dir
+./home/Notice/shetuanmingchengyijianzhengxunluxudedaojieguoyigongbuzhizhongyaowenjian/index.html time=1629815581.690463000 mode=644 type=file size=2580
+./home/Notice/xindexueqilailinluo time=1629815581.716046000 mode=755 type=dir
+./home/Notice/xindexueqilailinluo/index.html time=1629815581.716651000 mode=644 type=file size=2472
+./home/Notice/xinzenggongnengrangnitichunixiangxuede time=1629815581.821521000 mode=755 type=dir
+./home/Notice/xinzenggongnengrangnitichunixiangxuede/index.html time=1629815581.822351000 mode=644 type=file size=2476
+./home/Notice/xinzengshekehuodonghuaxuzhuanye time=1629815582.29559000 mode=755 type=dir
+./home/Notice/xinzengshekehuodonghuaxuzhuanye/index.html time=1629815582.30382000 mode=644 type=file size=2317
+./home/contact_us time=1629815582.205904000 mode=755 type=dir
+./home/contact_us/index.html time=1629815582.206632000 mode=644 type=file size=3354
+./home/file time=1629815581.772033000 mode=755 type=dir
+./home/file/index.html time=1629815581.773860000 mode=644 type=file size=7591
+./home/gettingnews time=1629815674.585138000 mode=755 type=dir
+./home/gettingnews/index.html time=1629815582.65326000 mode=644 type=file size=11991
+./home/gettingnews/reader1.png time=1629815667.565667000 mode=644 type=file size=629799
+./home/gettingnews/reader2.png time=1629815662.762757000 mode=644 type=file size=633579
+./home/gettingnews/reader3.png time=1629815654.440211000 mode=644 type=file size=1724899
+./home/gettingnews/reader4.png time=1629815613.513581000 mode=644 type=file size=197327
+./home/gettingnews/\346\227\245\346\233\2061.png time=1629815672.532914000 mode=644 type=file size=3003973
+./home/gettingnews/\346\227\245\346\233\2062.png time=1629815645.270021000 mode=644 type=file size=237671
+./home/gettingnews/\346\227\245\346\233\2063.png time=1629815675.236572000 mode=644 type=file size=186513
+./home/message time=1629815582.167325000 mode=755 type=dir
+./home/message/index.html time=1629815582.167863000 mode=644 type=file size=3142
+./home/photo time=1629815582.307183000 mode=755 type=dir
+./home/photo/index.html time=1629815582.106999000 mode=644 type=file size=44291
+./home/photo/101xueniandushangxueqishetuanqichudahui time=1629815581.775477000 mode=755 type=dir
+./home/photo/101xueniandushangxueqishetuanqichudahui/index.html time=1629815581.776434000 mode=644 type=file size=2499
+./home/photo/2011diannaodiy time=1629815581.994431000 mode=755 type=dir
+./home/photo/2011diannaodiy/index.html time=1629815581.995236000 mode=644 type=file size=2571
+./home/photo/20120729mozillasummbercodeparty time=1629815581.607930000 mode=755 type=dir
+./home/photo/20120729mozillasummbercodeparty/index.html time=1629815581.608899000 mode=644 type=file size=2413
+./home/photo/201211162012diannaodiymofazuzhuangxueyuan time=1629815582.246042000 mode=755 type=dir
+./home/photo/201211162012diannaodiymofazuzhuangxueyuan/index.html time=1629815582.246853000 mode=644 type=file size=2501
+./home/photo/20121227shetuanqimodahui time=1629815581.698724000 mode=755 type=dir
+./home/photo/20121227shetuanqimodahui/index.html time=1629815581.699381000 mode=644 type=file size=2426
+./home/photo/2013-10-8ttucscfrontend time=1629815582.188806000 mode=755 type=dir
+./home/photo/2013-10-8ttucscfrontend/index.html time=1629815582.189598000 mode=644 type=file size=2387
+./home/photo/2013-12-8dajialaixuevim time=1629815582.114855000 mode=755 type=dir
+./home/photo/2013-12-8dajialaixuevim/index.html time=1629815582.115329000 mode=644 type=file size=2526
+./home/photo/2013-9-18102shangqichudahui time=1629815651.207827000 mode=755 type=dir
+./home/photo/2013-9-18102shangqichudahui/2013-09-18\04018.49.46.jpg time=1629815609.93222000 mode=644 type=file size=1643089
+./home/photo/2013-9-18102shangqichudahui/2013-09-18\04018.50.01.jpg time=1629815646.962240000 mode=644 type=file size=1404309
+./home/photo/2013-9-18102shangqichudahui/2013-09-18\04018.50.05.jpg time=1629815637.738058000 mode=644 type=file size=1328839
+./home/photo/2013-9-18102shangqichudahui/2013-09-18\04018.50.07.jpg time=1629815634.997548000 mode=644 type=file size=1406415
+./home/photo/2013-9-18102shangqichudahui/2013-09-18\04018.50.10.jpg time=1629815607.676463000 mode=644 type=file size=1422259
+./home/photo/2013-9-18102shangqichudahui/IMG_20130918_184945.jpg time=1629815603.979001000 mode=644 type=file size=1643089
+./home/photo/2013-9-18102shangqichudahui/IMG_20130918_185001.jpg time=1629815652.289994000 mode=644 type=file size=1404309
+./home/photo/2013-9-18102shangqichudahui/index.html time=1629815581.951287000 mode=644 type=file size=5914
+./home/photo/2013nian3yue9rikaifangyuanmadedongtaichengshishejipython time=1629815582.138493000 mode=755 type=dir
+./home/photo/2013nian3yue9rikaifangyuanmadedongtaichengshishejipython/index.html time=1629815582.139024000 mode=644 type=file size=2585
+./home/photo/2014-1-12qimodahui time=1629815581.923207000 mode=755 type=dir
+./home/photo/2014-1-12qimodahui/index.html time=1629815581.923701000 mode=644 type=file size=2398
+./home/photo/2014-2-27102xiaxueqiqichudahui time=1629815581.790597000 mode=755 type=dir
+./home/photo/2014-2-27102xiaxueqiqichudahui/index.html time=1629815581.791417000 mode=644 type=file size=2473
+./home/photo/2014-4-23dyinbiaojizizao time=1629815581.807309000 mode=755 type=dir
+./home/photo/2014-4-23dyinbiaojizizao/index.html time=1629815581.807935000 mode=644 type=file size=2524
+./home/photo/2014-5-19tdohxiaoyuanzianxunhuijiangzuo time=1629815582.199890000 mode=755 type=dir
+./home/photo/2014-5-19tdohxiaoyuanzianxunhuijiangzuo/index.html time=1629815582.200568000 mode=644 type=file size=2496
+./home/photo/2014-5-21weixingdianjingjianduixiaoyuanxunhuiying time=1629815582.273895000 mode=755 type=dir
+./home/photo/2014-5-21weixingdianjingjianduixiaoyuanxunhuiying/index.html time=1629815582.274362000 mode=644 type=file size=2539
+./home/photo/2014-6-20102xiaxueqiqimodahui time=1629815581.812129000 mode=755 type=dir
+./home/photo/2014-6-20102xiaxueqiqimodahui/index.html time=1629815581.812893000 mode=644 type=file size=2473
+./home/photo/2014-6-4tdohxiaoyuanzianxunhuijiangzuo2 time=1629815581.861204000 mode=755 type=dir
+./home/photo/2014-6-4tdohxiaoyuanzianxunhuijiangzuo2/index.html time=1629815581.862365000 mode=644 type=file size=2496
+./home/photo/chushilinuxzuoyexitongzhuomianhuanjingjichushiziliaokuxitongphpdongtaiwangyeyuyan time=1629815582.222846000 mode=755 type=dir
+./home/photo/chushilinuxzuoyexitongzhuomianhuanjingjichushiziliaokuxitongphpdongtaiwangyeyuyan/index.html time=1629815582.223446000 mode=644 type=file size=2781
+./home/photo/diannaodiyzazhixiaoyuanxunhuijiangzuohuodong-intelchangci time=1629815581.668605000 mode=755 type=dir
+./home/photo/diannaodiyzazhixiaoyuanxunhuijiangzuohuodong-intelchangci/index.html time=1629815581.669469000 mode=644 type=file size=2510
+./home/photo/disanjiechengshishejijingsaijieti time=1629815581.814836000 mode=755 type=dir
+./home/photo/disanjiechengshishejijingsaijieti/index.html time=1629815581.816648000 mode=644 type=file size=2486
+./home/photo/diyicisheke time=1629815582.214659000 mode=755 type=dir
+./home/photo/diyicisheke/index.html time=1629815582.215520000 mode=644 type=file size=2352
+./home/photo/diyijiechengshishejijingsaichengguo time=1629815581.745813000 mode=755 type=dir
+./home/photo/diyijiechengshishejijingsaichengguo/index.html time=1629815581.746341000 mode=644 type=file size=2439
+./home/photo/diyijiechengshishejijingsaijiantaodahui time=1629815582.54133000 mode=755 type=dir
+./home/photo/diyijiechengshishejijingsaijiantaodahui/index.html time=1629815582.54913000 mode=644 type=file size=2473
+./home/photo/diyijiechengshishejijingsaijietidahui time=1629815581.735765000 mode=755 type=dir
+./home/photo/diyijiechengshishejijingsaijietidahui/index.html time=1629815581.736295000 mode=644 type=file size=2473
+./home/photo/gongchangshixifenxiang time=1629815582.307243000 mode=755 type=dir
+./home/photo/gongchangshixifenxiang/index.html time=1629815582.307831000 mode=644 type=file size=2360
+./home/photo/haizhaizaijialixiechengshishishiziyouruantikaifamoshi time=1629815581.710398000 mode=755 type=dir
+./home/photo/haizhaizaijialixiechengshishishiziyouruantikaifamoshi/index.html time=1629815581.711075000 mode=644 type=file size=2644
+./home/photo/prezi time=1629815582.98090000 mode=755 type=dir
+./home/photo/prezi/index.html time=1629815582.98603000 mode=644 type=file size=2412
+./home/photo/pythonchengshiyuyanjiaoxue time=1629815581.659651000 mode=755 type=dir
+./home/photo/pythonchengshiyuyanjiaoxue/index.html time=1629815581.660376000 mode=644 type=file size=2374
+./home/photo/shetuanchenglidahui time=1629815582.75566000 mode=755 type=dir
+./home/photo/shetuanchenglidahui/index.html time=1629815582.76037000 mode=644 type=file size=2320
+./home/photo/xiaoyuanlianhetechday time=1629815582.133355000 mode=755 type=dir
+./home/photo/xiaoyuanlianhetechday/index.html time=1629815582.134089000 mode=644 type=file size=2383
+./home/photo/ziyanshe99xueniandi2xueqiqimodahui time=1629815581.886158000 mode=755 type=dir
+./home/photo/ziyanshe99xueniandi2xueqiqimodahui/index.html time=1629815581.890726000 mode=644 type=file size=2459
+./home/photo/ziyanshedierjiechengshishejijingsai time=1629815581.613225000 mode=755 type=dir
+./home/photo/ziyanshedierjiechengshishejijingsai/index.html time=1629815581.614245000 mode=644 type=file size=2577
+./home/photo/ziyanshedisanjiechengshishejijingsai time=1629815581.751543000 mode=755 type=dir
+./home/photo/ziyanshedisanjiechengshishejijingsai/index.html time=1629815581.752026000 mode=644 type=file size=2502
+./home/purpose time=1629815582.360266000 mode=755 type=dir
+./home/purpose/index.html time=1629815581.658247000 mode=644 type=file size=4409
+./home/purpose/activities time=1629815582.391980000 mode=755 type=dir
+./home/purpose/activities/index.html time=1629815582.238722000 mode=644 type=file size=303203
+./home/purpose/activities/1215jinxingdierjiechengshishejijingsaihuanjingceshishekezantingyizhou time=1629815581.933481000 mode=755 type=dir
+./home/purpose/activities/1215jinxingdierjiechengshishejijingsaihuanjingceshishekezantingyizhou/index.html time=1629815581.934057000 mode=644 type=file size=3303
+./home/purpose/activities/20130319ziyanshesheke--maixiangyouxizhiluer time=1629815582.366604000 mode=755 type=dir
+./home/purpose/activities/20130319ziyanshesheke--maixiangyouxizhiluer/index.html time=1629815582.367470000 mode=644 type=file size=2358
+./home/purpose/activities/20130430diyizhanjavascript-yunodejsdeqianxi time=1629815582.263949000 mode=755 type=dir
+./home/purpose/activities/20130430diyizhanjavascript-yunodejsdeqianxi/index.html time=1629815582.264721000 mode=644 type=file size=4177
+./home/purpose/activities/2013312maixiangyouxichengshezhiluyixianlaikankancchengshi time=1629815582.208612000 mode=755 type=dir
+./home/purpose/activities/2013312maixiangyouxichengshezhiluyixianlaikankancchengshi/index.html time=1629815582.209108000 mode=644 type=file size=4837
+./home/purpose/activities/925shekeyindaxueshengchengshinenglijiandingzantingyici time=1629815582.195838000 mode=755 type=dir
+./home/purpose/activities/925shekeyindaxueshengchengshinenglijiandingzantingyici/index.html time=1629815582.196467000 mode=644 type=file size=2347
+./home/purpose/activities/achengshizenmexie time=1629815581.986440000 mode=755 type=dir
+./home/purpose/activities/achengshizenmexie/index.html time=1629815581.987464000 mode=644 type=file size=2697
+./home/purpose/activities/anzanhuo1jikechoudajiang time=1629815596.532394000 mode=755 type=dir
+./home/purpose/activities/anzanhuo1jikechoudajiang/index.html time=1629815582.144653000 mode=644 type=file size=4865
+./home/purpose/activities/anzanhuo1jikechoudajiang/\350\263\207\347\240\224\346\234\237\345\210\235\345\256\243\345\202\263(\345\275\251).jpg time=1629815597.10124000 mode=644 type=file size=115185
+./home/purpose/activities/anzhuangnizijidediyigelinuxzuoyexitong time=1629815582.178549000 mode=755 type=dir
+./home/purpose/activities/anzhuangnizijidediyigelinuxzuoyexitong/index.html time=1629815582.179483000 mode=644 type=file size=7116
+./home/purpose/activities/benxueqidiyicishetuanhuodongshijian time=1629815582.3727000 mode=755 type=dir
+./home/purpose/activities/benxueqidiyicishetuanhuodongshijian/index.html time=1629815582.13788000 mode=644 type=file size=2906
+./home/purpose/activities/bianjiqizhongdeshen-vim time=1629815582.369577000 mode=755 type=dir
+./home/purpose/activities/bianjiqizhongdeshen-vim/index.html time=1629815582.371358000 mode=644 type=file size=7170
+./home/purpose/activities/bianjiqizhongdeshen-vim2 time=1629815581.991251000 mode=755 type=dir
+./home/purpose/activities/bianjiqizhongdeshen-vim2/index.html time=1629815581.991836000 mode=644 type=file size=6410
+./home/purpose/activities/bianjiqizhongdeshen-vim3 time=1629815581.763496000 mode=755 type=dir
+./home/purpose/activities/bianjiqizhongdeshen-vim3/index.html time=1629815581.764180000 mode=644 type=file size=6012
+./home/purpose/activities/bianjiqizhongdeshen-vim4 time=1629815582.387674000 mode=755 type=dir
+./home/purpose/activities/bianjiqizhongdeshen-vim4/index.html time=1629815582.388272000 mode=644 type=file size=6341
+./home/purpose/activities/callfor_csclogo time=1629815582.159202000 mode=755 type=dir
+./home/purpose/activities/callfor_csclogo/index.html time=1629815582.161180000 mode=644 type=file size=3587
+./home/purpose/activities/chutanandroidzuoyexitong time=1629815582.79559000 mode=755 type=dir
+./home/purpose/activities/chutanandroidzuoyexitong/index.html time=1629815582.80112000 mode=644 type=file size=5675
+./home/purpose/activities/diannaodiyzazhixiaoyuanxunhuijiangzuohuodong-intelchangci time=1629815582.46758000 mode=755 type=dir
+./home/purpose/activities/diannaodiyzazhixiaoyuanxunhuijiangzuohuodong-intelchangci/index.html time=1629815582.47579000 mode=644 type=file size=5625
+./home/purpose/activities/diyicishekejiushishou time=1629815581.664997000 mode=755 type=dir
+./home/purpose/activities/diyicishekejiushishou/index.html time=1629815581.665862000 mode=644 type=file size=4030
+./home/purpose/activities/diyicishiyongxuexiaoxitongjiushangshou time=1629815581.979897000 mode=755 type=dir
+./home/purpose/activities/diyicishiyongxuexiaoxitongjiushangshou/index.html time=1629815581.981193000 mode=644 type=file size=4243
+./home/purpose/activities/gamesalad--duopingtaideyouxizhizuogongju time=1629815582.254274000 mode=755 type=dir
+./home/purpose/activities/gamesalad--duopingtaideyouxizhizuogongju/index.html time=1629815582.255207000 mode=644 type=file size=3003
+./home/purpose/activities/guligeweisheyuancanyucpedaxuechengshinenglijianding327shekezantingyici time=1629815581.747410000 mode=755 type=dir
+./home/purpose/activities/guligeweisheyuancanyucpedaxuechengshinenglijianding327shekezantingyici/index.html time=1629815581.747960000 mode=644 type=file size=3419
+./home/purpose/activities/guligeweisheyuancanyucpedaxuechengshinenglijianding529shekezantingyici time=1629815581.740210000 mode=755 type=dir
+./home/purpose/activities/guligeweisheyuancanyucpedaxuechengshinenglijianding529shekezantingyici/index.html time=1629815581.740883000 mode=644 type=file size=3782
+./home/purpose/activities/haizhaizaijialixiechengshishishiziyouruantikaifamoshi time=1629815582.37905000 mode=755 type=dir
+./home/purpose/activities/haizhaizaijialixiechengshishishiziyouruantikaifamoshi/index.html time=1629815582.38978000 mode=644 type=file size=12639
+./home/purpose/activities/javascriptcsshtml5xiliekecheng time=1629815581.779685000 mode=755 type=dir
+./home/purpose/activities/javascriptcsshtml5xiliekecheng/index.html time=1629815581.780729000 mode=644 type=file size=2385
+./home/purpose/activities/jiaoniyonggooglechenglixuexiaoshetuan time=1629815581.611182000 mode=755 type=dir
+./home/purpose/activities/jiaoniyonggooglechenglixuexiaoshetuan/index.html time=1629815581.612301000 mode=644 type=file size=4320
+./home/purpose/activities/jiaoniyonggooglechenglixuexiaoshetuan2 time=1629815581.761036000 mode=755 type=dir
+./home/purpose/activities/jiaoniyonggooglechenglixuexiaoshetuan2/index.html time=1629815581.761630000 mode=644 type=file size=5809
+./home/purpose/activities/jiaoniyonggooglechenglixuexiaoshetuan3 time=1629815581.769896000 mode=755 type=dir
+./home/purpose/activities/jiaoniyonggooglechenglixuexiaoshetuan3/index.html time=1629815581.770675000 mode=644 type=file size=6115
+./home/purpose/activities/linuxxitonganzhuanghoushedingjirenshibashshell time=1629815582.363195000 mode=755 type=dir
+./home/purpose/activities/linuxxitonganzhuanghoushedingjirenshibashshell/index.html time=1629815582.364150000 mode=644 type=file size=5991
+./home/purpose/activities/maixiangyouxizhilufinal time=1629815581.626190000 mode=755 type=dir
+./home/purpose/activities/maixiangyouxizhilufinal/index.html time=1629815581.627127000 mode=644 type=file size=4874
+./home/purpose/activities/naxiexuexiaobuhuijiaonidee-mailliangsanshi time=1629815581.913884000 mode=755 type=dir
+./home/purpose/activities/naxiexuexiaobuhuijiaonidee-mailliangsanshi/index.html time=1629815581.914394000 mode=644 type=file size=3965
+./home/purpose/activities/page time=1629815581.700617000 mode=755 type=dir
+./home/purpose/activities/page/index.html time=1629815581.701176000 mode=644 type=file size=3693
+./home/purpose/activities/page-1 time=1629815581.833091000 mode=755 type=dir
+./home/purpose/activities/page-1/index.html time=1629815581.833612000 mode=644 type=file size=2286
+./home/purpose/activities/page-2 time=1629815657.332331000 mode=755 type=dir
+./home/purpose/activities/page-2/10009310_753418434677019_697522224_n.jpg time=1629815657.613936000 mode=644 type=file size=60096
+./home/purpose/activities/page-2/1779096_753418311343698_1860928630_n.jpg time=1629815592.636355000 mode=644 type=file size=60378
+./home/purpose/activities/page-2/1920381_753418261343703_300341349_n.jpg time=1629815629.804747000 mode=644 type=file size=59050
+./home/purpose/activities/page-2/1972342_753418371343692_984887899_n.jpg time=1629815642.467097000 mode=644 type=file size=64371
+./home/purpose/activities/page-2/index.html time=1629815581.767184000 mode=644 type=file size=4730
+./home/purpose/activities/prezicom--zhizuoyuzhongbutongdejianbao time=1629815581.827541000 mode=755 type=dir
+./home/purpose/activities/prezicom--zhizuoyuzhongbutongdejianbao/index.html time=1629815581.828111000 mode=644 type=file size=4180
+./home/purpose/activities/prezicomwanmeidebaogaoruhedansheng time=1629815582.174955000 mode=755 type=dir
+./home/purpose/activities/prezicomwanmeidebaogaoruhedansheng/index.html time=1629815582.175528000 mode=644 type=file size=8793
+./home/purpose/activities/programmerjianshuohaodemimionlinejudgesystem time=1629815581.733847000 mode=755 type=dir
+./home/purpose/activities/programmerjianshuohaodemimionlinejudgesystem/index.html time=1629815581.734569000 mode=644 type=file size=7770
+./home/purpose/activities/pythonchengshiyuyanjiaoxue time=1629815582.380413000 mode=755 type=dir
+./home/purpose/activities/pythonchengshiyuyanjiaoxue/index.html time=1629815582.380940000 mode=644 type=file size=6672
+./home/purpose/activities/pythonchengshiyuyanjiaoxuediertang time=1629815582.148671000 mode=755 type=dir
+./home/purpose/activities/pythonchengshiyuyanjiaoxuediertang/index.html time=1629815582.149380000 mode=644 type=file size=10039
+./home/purpose/activities/pythonchengshiyuyanjiaoxuedisantang time=1629815581.905535000 mode=755 type=dir
+./home/purpose/activities/pythonchengshiyuyanjiaoxuedisantang/index.html time=1629815581.906665000 mode=644 type=file size=8058
+./home/purpose/activities/pythonchengshiyuyanjiaoxuedisitang992zuihouyitangsheke time=1629815581.696295000 mode=755 type=dir
+./home/purpose/activities/pythonchengshiyuyanjiaoxuedisitang992zuihouyitangsheke/index.html time=1629815581.697274000 mode=644 type=file size=9020
+./home/purpose/activities/qichudahui time=1629815582.109857000 mode=755 type=dir
+./home/purpose/activities/qichudahui/index.html time=1629815582.110392000 mode=644 type=file size=4104
+./home/purpose/activities/renshibashshell2 time=1629815581.965852000 mode=755 type=dir
+./home/purpose/activities/renshibashshell2/index.html time=1629815581.966847000 mode=644 type=file size=7244
+./home/purpose/activities/renshibashshell3 time=1629815581.673847000 mode=755 type=dir
+./home/purpose/activities/renshibashshell3/index.html time=1629815581.674585000 mode=644 type=file size=7388
+./home/purpose/activities/renshidebuggerqiantancyuyanbianyijidiannaodiyxiaoyuanxunhuijiangzuo-huashuochangci time=1629815582.279992000 mode=755 type=dir
+./home/purpose/activities/renshidebuggerqiantancyuyanbianyijidiannaodiyxiaoyuanxunhuijiangzuo-huashuochangci/index.html time=1629815582.281271000 mode=644 type=file size=14946
+./home/purpose/activities/shetuanlianzhananzan1choujianghuodongdejiangmingdan time=1629815582.128044000 mode=755 type=dir
+./home/purpose/activities/shetuanlianzhananzan1choujianghuodongdejiangmingdan/index.html time=1629815582.128669000 mode=644 type=file size=6018
+./home/purpose/activities/shifengqizhongkao112118jiqiqianyizhoushekezantingliangzhou time=1629815582.376065000 mode=755 type=dir
+./home/purpose/activities/shifengqizhongkao112118jiqiqianyizhoushekezantingliangzhou/index.html time=1629815582.377338000 mode=644 type=file size=2677
+./home/purpose/activities/shifengqizhongkaoqianshetuankechengzantingliangci time=1629815582.120245000 mode=755 type=dir
+./home/purpose/activities/shifengqizhongkaoqianshetuankechengzantingliangci/index.html time=1629815582.120794000 mode=644 type=file size=2597
+./home/purpose/activities/shijiedoukuaihuimiecuoguojiumeiyouyihouxiaoyuanlianhetechday time=1629815582.268645000 mode=755 type=dir
+./home/purpose/activities/shijiedoukuaihuimiecuoguojiumeiyouyihouxiaoyuanlianhetechday/index.html time=1629815582.269165000 mode=644 type=file size=3602
+./home/purpose/activities/shuqishixijishujixindefenxiang time=1629815581.955955000 mode=755 type=dir
+./home/purpose/activities/shuqishixijishujixindefenxiang/index.html time=1629815581.956553000 mode=644 type=file size=6779
+./home/purpose/activities/virtualbox--wanbingdu\343\200\201xuezhongguan\343\200\201wanlinux time=1629815581.838434000 mode=755 type=dir
+./home/purpose/activities/virtualbox--wanbingdu\343\200\201xuezhongguan\343\200\201wanlinux/index.html time=1629815581.839339000 mode=644 type=file size=2798
+./home/purpose/activities/wubiaotidewenzhang time=1629815581.743853000 mode=755 type=dir
+./home/purpose/activities/wubiaotidewenzhang/index.html time=1629815581.744687000 mode=644 type=file size=7391
+./home/purpose/activities/wubiaotidewenzhang-1 time=1629815581.671434000 mode=755 type=dir
+./home/purpose/activities/wubiaotidewenzhang-1/index.html time=1629815581.672299000 mode=644 type=file size=11706
+./home/purpose/activities/wubiaotidewenzhang-2 time=1629815654.702742000 mode=755 type=dir
+./home/purpose/activities/wubiaotidewenzhang-2/2012\346\240\241\345\234\222\346\264\273\345\213\225-CD.jpg time=1629815656.66228000 mode=644 type=file size=1273523
+./home/purpose/activities/wubiaotidewenzhang-2/index.html time=1629815581.902756000 mode=644 type=file size=3696
+./home/purpose/activities/xiaridewebleyuan2012 time=1629815581.898073000 mode=755 type=dir
+./home/purpose/activities/xiaridewebleyuan2012/index.html time=1629815581.899423000 mode=644 type=file size=8139
+./home/purpose/activities/xinshidaiyunduanchucundropboxmiaoyonggoogledocsjiaoxuebuwan time=1629815582.211816000 mode=755 type=dir
+./home/purpose/activities/xinshidaiyunduanchucundropboxmiaoyonggoogledocsjiaoxuebuwan/index.html time=1629815582.212359000 mode=644 type=file size=7912
+./home/purpose/activities/xinxueqikaishiluo time=1629815582.358167000 mode=755 type=dir
+./home/purpose/activities/xinxueqikaishiluo/index.html time=1629815582.358787000 mode=644 type=file size=3640
+./home/purpose/activities/xmapp--jiashewangzhandeshenbingliqi time=1629815582.94770000 mode=755 type=dir
+./home/purpose/activities/xmapp--jiashewangzhandeshenbingliqi/index.html time=1629815582.96430000 mode=644 type=file size=3017
+./home/purpose/activities/xunijiqivirtualboxchuanshuozhongdeyingfenshen time=1629815582.183964000 mode=755 type=dir
+./home/purpose/activities/xunijiqivirtualboxchuanshuozhongdeyingfenshen/index.html time=1629815582.184603000 mode=644 type=file size=5619
+./home/purpose/activities/yongchengshijiejueshenghuowenti time=1629815582.70297000 mode=755 type=dir
+./home/purpose/activities/yongchengshijiejueshenghuowenti/index.html time=1629815582.71248000 mode=644 type=file size=6048
+./home/purpose/activities/youbeiwuhuan\342\224\200jiaoniruhezaiosbengkuideshihoukuaisuhuifuxitong time=1629815581.797643000 mode=755 type=dir
+./home/purpose/activities/youbeiwuhuan\342\224\200jiaoniruhezaiosbengkuideshihoukuaisuhuifuxitong/index.html time=1629815581.798264000 mode=644 type=file size=4154
+./home/purpose/activities/zaicpezhongjietidejiqiao time=1629815581.918558000 mode=755 type=dir
+./home/purpose/activities/zaicpezhongjietidejiqiao/index.html time=1629815581.919037000 mode=644 type=file size=3486
+./home/purpose/activities/zaitandebugger-javadebuggingwitheclipseshizuo time=1629815581.546576000 mode=755 type=dir
+./home/purpose/activities/zaitandebugger-javadebuggingwitheclipseshizuo/index.html time=1629815581.586627000 mode=644 type=file size=6316
+./home/purpose/activities/zixunchuangyiyanjiusheshehuipiaoxuan\342\200\216toupiaoqixianzhi83zhi time=1629815581.684606000 mode=755 type=dir
+./home/purpose/activities/zixunchuangyiyanjiusheshehuipiaoxuan\342\200\216toupiaoqixianzhi83zhi/index.html time=1629815581.685392000 mode=644 type=file size=3022
+./home/purpose/activities/ziyanshe99xueniandi2xueqiqimodahui time=1629815582.220655000 mode=755 type=dir
+./home/purpose/activities/ziyanshe99xueniandi2xueqiqimodahui/index.html time=1629815582.221246000 mode=644 type=file size=4075
+./home/purpose/activities/ziyanshedierjiechengshishejijingsai12191700zhunshikaishi time=1629815581.605596000 mode=755 type=dir
+./home/purpose/activities/ziyanshedierjiechengshishejijingsai12191700zhunshikaishi/index.html time=1629815581.606691000 mode=644 type=file size=5436
+./home/purpose/activities/ziyanshedierjiechengshishejijingsaikaifangbaomingla time=1629815582.83261000 mode=755 type=dir
+./home/purpose/activities/ziyanshedierjiechengshishejijingsaikaifangbaomingla/index.html time=1629815582.83762000 mode=644 type=file size=5762
+./home/purpose/activities/ziyanshedierjiechengshishejijingsaitimujieti\343\200\201banjiangjingsaijiantaohuiyijiqimohuiyi time=1629815581.749686000 mode=755 type=dir
+./home/purpose/activities/ziyanshedierjiechengshishejijingsaitimujieti\343\200\201banjiangjingsaijiantaohuiyijiqimohuiyi/index.html time=1629815581.750413000 mode=644 type=file size=8794
+./home/purpose/activities/ziyanshedisanjiechengshishejijingsaitimujieti time=1629815581.603035000 mode=755 type=dir
+./home/purpose/activities/ziyanshedisanjiechengshishejijingsaitimujieti/index.html time=1629815581.603934000 mode=644 type=file size=7591
+./home/purpose/activities/ziyanshediyijiechengshishejijingsai time=1629815581.793815000 mode=755 type=dir
+./home/purpose/activities/ziyanshediyijiechengshishejijingsai/index.html time=1629815581.794622000 mode=644 type=file size=12926
+./home/purpose/activities/ziyanshediyijiechengshishejijingsaitimujieti\343\200\201banjiang time=1629815581.848756000 mode=755 type=dir
+./home/purpose/activities/ziyanshediyijiechengshishejijingsaitimujieti\343\200\201banjiang/index.html time=1629815581.849402000 mode=644 type=file size=3937
+./home/purpose/activities/ziyanshejingdiangooglekechengzhongchujianghuwanmeidebaogaoruhedansheng time=1629815582.392036000 mode=755 type=dir
+./home/purpose/activities/ziyanshejingdiangooglekechengzhongchujianghuwanmeidebaogaoruhedansheng/index.html time=1629815582.392533000 mode=644 type=file size=7556
+./home/purpose/activities/ziyansheshehuizhenggaojieguo time=1629815582.259368000 mode=755 type=dir
+./home/purpose/activities/ziyansheshehuizhenggaojieguo/index.html time=1629815582.259869000 mode=644 type=file size=3075
+./home/purpose/briefing time=1629815676.303040000 mode=755 type=dir
+./home/purpose/briefing/0.png time=1629815650.225776000 mode=644 type=file size=564898
+./home/purpose/briefing/0505\345\257\246\344\275\234\344\270\200\345\217\203\350\200\203\347\255\224\346\241\210.py time=1629815610.770585000 mode=644 type=file size=269
+./home/purpose/briefing/20121017\347\244\276\350\252\262.pdf time=1629815624.455443000 mode=644 type=file size=2846416
+./home/purpose/briefing/Install\040your\040first\040Linux\040OS\040Note.txt time=1629815670.208126000 mode=644 type=file size=825
+./home/purpose/briefing/Programmer\351\226\223\350\252\252\345\245\275\347\232\204\347\247\230\345\257\206\040\347\255\206\350\250\230.txt time=1629815625.808652000 mode=644 type=file size=1145
+./home/purpose/briefing/Python\347\250\213\345\274\217\350\252\236\350\250\200\346\225\231\345\255\270(\040I\040).pdf time=1629815589.458424000 mode=644 type=file size=1735597
+./home/purpose/briefing/bashPractice1 time=1629815611.831306000 mode=644 type=file size=857
+./home/purpose/briefing/bashPractice1Ans time=1629815583.602277000 mode=644 type=file size=588
+./home/purpose/briefing/bashShell time=1629815626.893619000 mode=644 type=file size=462
+./home/purpose/briefing/bashSpecialCharacters time=1629815620.987437000 mode=644 type=file size=655
+./home/purpose/briefing/bash^A~Z time=1629815615.580950000 mode=644 type=file size=1037
+./home/purpose/briefing/dropbox_note.txt time=1629815624.714256000 mode=644 type=file size=545
+./home/purpose/briefing/helloworld.py time=1629815614.511623000 mode=644 type=file size=2453
+./home/purpose/briefing/index.html time=1629815581.881278000 mode=644 type=file size=20253
+./home/purpose/briefing/mail time=1629815643.593633000 mode=644 type=file size=547
+./home/purpose/briefing/note time=1629815673.598199000 mode=644 type=file size=690
+./home/purpose/briefing/school_20120522_ally.odp time=1629815661.351858000 mode=644 type=file size=5982265
+./home/purpose/briefing/url time=1629815588.10648000 mode=644 type=file size=685
+./home/purpose/briefing/vi-vim-cheat-sheet.gif time=1629815666.387481000 mode=644 type=file size=158597
+./home/purpose/briefing/vi-vim-cheat-sheet.png time=1629815658.976219000 mode=644 type=file size=334712
+./home/purpose/briefing/vim-shortcuts.png time=1629815592.16116000 mode=644 type=file size=355708
+./home/purpose/briefing/vim_practice1 time=1629815676.303170000 mode=644 type=file size=300
+./home/purpose/briefing/vim_practice1_ans time=1629815600.419570000 mode=644 type=file size=172
+./home/purpose/briefing/\345\256\214\347\276\216\347\232\204\345\240\261\345\221\212\345\246\202\344\275\225\350\252\225\347\224\237\040\347\255\206\350\250\230.txt time=1629815594.482460000 mode=644 type=file size=971
+./home/purpose/briefing/\346\225\231\344\275\240\347\224\250Google\346\210\220\347\253\213\345\255\270\346\240\241\347\244\276\345\234\230!.pdf time=1629815622.497145000 mode=644 type=file size=1719593
+./home/purpose/briefing/\347\254\254\344\270\211\346\254\241\350\252\262\347\250\213\347\260\241\345\240\261.pdf time=1629815663.618138000 mode=644 type=file size=172689
+./home/purpose/briefing/\347\254\254\344\270\211\346\254\241\350\252\262\347\250\213\351\240\220\347\277\222\350\263\207\346\226\231.pdf time=1629815598.35099000 mode=644 type=file size=78704
+./home/purpose/briefing/\347\254\254\344\270\211\346\254\241\351\240\220\347\277\222\350\263\207\346\226\231\350\247\243\347\255\224.zip time=1629815636.88551000 mode=644 type=file size=2138
+./home/purpose/briefing/\347\254\254\344\272\214\346\254\241\350\252\262\347\250\213\351\240\220\347\277\222\350\263\207\346\226\231.zip time=1629815590.562920000 mode=644 type=file size=16139
+./home/purpose/briefing/\350\252\236\351\237\263\345\240\261\346\231\202.c time=1629815640.427859000 mode=644 type=file size=1632
+./home/purpose/briefing/\350\263\207\347\240\224\347\244\276\347\266\223\345\205\270Google\347\263\273\345\210\227\350\252\262\347\250\213.pdf time=1629815629.57439000 mode=644 type=file size=1725305
+./home/purpose/eventrecord time=1629815582.249251000 mode=755 type=dir
+./home/purpose/eventrecord/index.html time=1629815582.17478000 mode=644 type=file size=9842
+./home/purpose/eventrecord/xiaoyuanlianhetechdayyuanmanluomu time=1629815632.685825000 mode=755 type=dir
+./home/purpose/eventrecord/xiaoyuanlianhetechdayyuanmanluomu/DSC09546.JPG time=1629815617.494839000 mode=644 type=file size=90479
+./home/purpose/eventrecord/xiaoyuanlianhetechdayyuanmanluomu/DSC09570.JPG time=1629815632.894243000 mode=644 type=file size=39445
+./home/purpose/eventrecord/xiaoyuanlianhetechdayyuanmanluomu/DSC09608.JPG time=1629815586.165912000 mode=644 type=file size=88586
+./home/purpose/eventrecord/xiaoyuanlianhetechdayyuanmanluomu/index.html time=1629815582.250172000 mode=644 type=file size=8559
+./home/purpose/eventrecord/xiaoyuanlianhetechdayyuanmanluomu/\347\244\276\350\252\262.JPG time=1629815610.518244000 mode=644 type=file size=70480
+./home/purpose/eventrecord/ziyanshediannaodiyzazhihebandeinteljiangzuozaijinwan228yuanmanluomu\343\200\202 time=1629815582.218695000 mode=755 type=dir
+./home/purpose/eventrecord/ziyanshediannaodiyzazhihebandeinteljiangzuozaijinwan228yuanmanluomu\343\200\202/index.html time=1629815582.219225000 mode=644 type=file size=3735
+./home/purpose/ossf time=1629815581.867175000 mode=755 type=dir
+./home/purpose/ossf/index.html time=1629815581.867742000 mode=644 type=file size=2673
+./home/purpose/shareappl time=1629815581.969729000 mode=755 type=dir
+./home/purpose/shareappl/index.html time=1629815581.970990000 mode=644 type=file size=2675
+./home/purpose/techme time=1629815582.360322000 mode=755 type=dir
+./home/purpose/techme/index.html time=1629815582.360789000 mode=644 type=file size=2702
+./home/registration time=1629815581.927624000 mode=755 type=dir
+./home/registration/index.html time=1629815581.928222000 mode=644 type=file size=2605
+./programming_competition_1st time=1629815664.618133000 mode=755 type=dir
+./programming_competition_1st/c_sample.swf time=1629815605.520606000 mode=644 type=file size=122365
+./programming_competition_1st/index.html time=1629815581.810756000 mode=644 type=file size=7489
+./programming_competition_1st/\347\254\254\344\270\200\345\261\206\347\250\213\345\274\217\350\250\255\350\250\210\347\253\266\350\263\275\346\210\220\347\270\276.pdf time=1629815665.18743000 mode=644 type=file size=72231
+./programming_competition_1st/\347\254\254\344\270\200\345\261\206\347\250\213\345\274\217\350\250\255\350\250\210\347\253\266\350\263\275\351\241\214\346\234\254.pdf time=1629815601.706660000 mode=644 type=file size=798783
+./programming_competition_1st/\347\257\204\344\276\213\347\255\224\346\241\210.rar time=1629815599.380342000 mode=644 type=file size=1155219
+./programming_competition_1st/\350\251\225\345\257\251\346\270\254\350\263\207.rar time=1629815656.328278000 mode=644 type=file size=593
+./programming_competition_2nd time=1629815661.598021000 mode=755 type=dir
+./programming_competition_2nd/PC2\040\344\275\277\347\224\250\350\252\252\346\230\216.pdf time=1629815639.444813000 mode=644 type=file size=253486
+./programming_competition_2nd/index.html time=1629815582.352425000 mode=644 type=file size=9583
+./programming_competition_2nd/\347\253\266\350\263\275\346\210\220\347\270\276.html time=1629815661.605032000 mode=644 type=file size=7284
+./programming_competition_2nd/\347\253\266\350\263\275\346\210\220\347\270\276_\345\201\234\346\255\242\346\233\264\346\226\260\345\211\215.html time=1629815618.517615000 mode=644 type=file size=6643
+./programming_competition_2nd/\347\253\266\350\263\275\346\263\250\346\204\217\344\272\213\351\240\205.pdf time=1629815630.364686000 mode=644 type=file size=27663
+./programming_competition_2nd/\347\257\204\344\276\213\347\250\213\345\274\217\347\242\274.zip time=1629815595.561042000 mode=644 type=file size=3594
+./programming_competition_2nd/\347\260\275\345\210\260\345\226\256.pdf time=1629815631.608693000 mode=644 type=file size=31671
+./programming_competition_2nd/\350\251\225\345\257\251\346\270\254\350\263\207.zip time=1629815585.282364000 mode=644 type=file size=33361
+./programming_competition_2nd/\351\241\214\346\234\254.pdf time=1629815587.760122000 mode=644 type=file size=145339
+./programming_competition_3rd time=1629815667.814958000 mode=755 type=dir
+./programming_competition_3rd/ContestResult.html time=1629815641.558411000 mode=644 type=file size=5446
+./programming_competition_3rd/ContestResult_before_stop_update.html time=1629815665.259371000 mode=644 type=file size=4720
+./programming_competition_3rd/Terminal.jpg time=1629815648.705548000 mode=644 type=file size=198986
+./programming_competition_3rd/Test\040data.zip time=1629815669.112223000 mode=644 type=file size=914174
+./programming_competition_3rd/index.html time=1629815582.155527000 mode=644 type=file size=14421
+./programming_competition_3rd/team.html time=1629815584.711291000 mode=644 type=file size=16504
+./programming_competition_3rd/\351\241\214\346\234\254.pdf time=1629815594.143036000 mode=644 type=file size=96773
+./programming_competition_3rd/\351\241\214\346\234\254\344\277\256\350\250\202\347\211\210.pdf time=1629815616.605507000 mode=644 type=file size=96810
+./ttupc time=1629815582.384158000 mode=755 type=dir
+./ttupc/index.html time=1629815582.384619000 mode=644 type=file size=2804

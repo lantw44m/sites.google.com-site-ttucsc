@@ -1,0 +1,43 @@
+0.
+	man ls
+	ls --help
+
+1.
+	su	#need superuser permissions
+	yum -y install alacarte gthumb
+	#use Ctrl-D or exit change to user permissions
+
+2.
+	cd /
+	pwd
+
+3.
+	cd ~
+	pwd
+
+4.
+	mkdir hello	#at your user home directory
+
+5.
+	gedit hello.c #you can use another editor
+
+6.
+	gcc -o hello hello.c	#You need to save your source code file first!
+
+7.
+	./hello
+	#use Ctrl-C to terminate
+
+8.
+	cd ~
+	gedit .bashrc
+	PATH=$PATH:$HOHE/hello	#add this line at the end of the file
+
+9.
+	#in your .bashrc add this line
+	alias lla='ls -l -a'
+
+10.
+	#in your .bashrc add this line
+	export TTU="Tatung University"
+

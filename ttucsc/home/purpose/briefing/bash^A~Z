@@ -1,0 +1,26 @@
+Ctrl+A 到指令開頭
+Ctrl+B 游標向前
+Ctrl+C 中斷程式執行
+Ctrl+D 若無輸入指令：登出。若有輸入指令：自游標所在處開始往後刪指令
+Ctrl+E 到指令結尾
+Ctrl+F 關機（同 shutdown -h now 指令）Red Hat Linux 8
+Ctrl+G 
+Ctrl+H 自游標所在處開始往前刪指令
+Ctrl+I 補齊（同 TAB 鍵）
+Ctrl+J 同 Enter 按鍵
+Ctrl+K 剪下游標所在至指令結尾
+Ctrl+L 刷新螢幕畫面（同 clear 指令）
+Ctrl+M 同 Enter 按鍵
+Ctrl+N 同 history 向下鍵的使用
+Ctrl+O 同 Enter 按鍵後再帶出最後一次輸入的指令
+Ctrl+P 同 history 向上鍵的使用
+Ctrl+Q 恢復螢幕的輸出
+Ctrl+R 命令歷程搜尋
+Ctrl+S 暫停螢幕的輸出
+Ctrl+T 游標所在的字母與前一個字母交換位置，同時游標往後移一字母位置
+Ctrl+U 剪下游標所在至指令開頭（同Ctrl+W）
+Ctrl+V
+Ctrl+W 剪下游標所在至指令開頭（同Ctrl+U）
+Ctrl+X 在前後兩指令字母交換位置
+Ctrl+Y 貼上被剪下（Ctrl+K或Ctrl+U）的內容
+Ctrl+Z 暫停程式執行

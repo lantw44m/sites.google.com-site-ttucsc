@@ -1,0 +1,79 @@
+﻿Programmer常用快速鍵
+
+Ctrl + 左右 以單字為單位移動游標
+
+Shift + 左右 選取文字
+
+Ctrl + Shift + 左右 以單字為單位選取文字
+
+善用Tab
+
+Inset按鍵功能
+
+Home End的使用
+
+Pause Break用途
+
+Ctrl + C 終止程式
+
+Ctrl + Z = EOF
+
+變數命名
+PascalCas
+camelCase
+
+About Coding Style
+http://wiki.jiayun.org/PEP_8_--_Style_Guide_for_Python_Code
+
+以下...通用快速鍵
+
+Ctrl + Z 復原
+
+Ctrl + X剪下
+
+Ctrl + C複製
+
+Ctrl + V貼上
+
+Ctrl + B粗體
+
+Ctrl + N開新視窗
+
+Ctrl + A全選
+
+Ctrl + S存檔
+
+Ctrl + Shift + S另存新檔
+
+Ctrl + F搜尋
+
+Ctrl + H歷史紀錄
+
+Ctrl + J下載
+
+Ctrl + W關閉分頁
+
+滑鼠中鍵 or Ctrl + 左鍵 在新分頁開啟
+
+Ctrl + R回復復原
+
+Ctrl + U底線
+
+Ctrl + I斜體
+
+Ctrl + P列印
+
+Shift + delete直接刪除
+
+Ctrl + +放大
+
+Ctrl + -縮小
+
+Ctrl + 0回復原始大小
+
+輸入法詞庫
+微軟輸入法	以shift選取預加入詞庫之詞 再按Shift + Enter
+gcin		游標移至預加之詞前 Shift + Enter將游標處至結尾新增到詞庫
+
+Alt + Enter	開啟內容 / 全銀幕
+
